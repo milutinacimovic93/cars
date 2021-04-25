@@ -23,6 +23,8 @@
     <body class="antialiased">
         <div>
             <h1>Welcome to cars project!</h1>
+            <h2>Welcome {{$name}}!</h2>
+            <h2>I am {{$age}} old.</h2>
         </div>
     </body>
 </html>
